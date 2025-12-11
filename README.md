@@ -1,2 +1,5 @@
-# cdemo
-Created by gh-repo-create.sh jimweller cdemo public  (Thu Dec 11 16:20:50 UTC 2025)
+There once was an AI named Claude,
+Whose responses were never quite flawed.
+With context so wide,
+And helpfulness as guide,
+It coded while users applaud!
